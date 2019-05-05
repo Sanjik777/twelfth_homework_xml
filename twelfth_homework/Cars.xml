@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cars>
+  <car name ="Gelik">
+    <model>G500</model>
+    <weight>2.5</weight>
+    <speed>200</speed>
+  </car>
+</cars>
